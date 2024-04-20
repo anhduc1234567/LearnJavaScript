@@ -1,0 +1,2 @@
+
+alert('Hi JavaScrpit basic!')
